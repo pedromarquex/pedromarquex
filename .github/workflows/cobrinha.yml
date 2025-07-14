@@ -15,9 +15,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
           
-          # === NOVAS CORES PARA O TEMA DRACULA ===
-          color_snake: "#FF79C6"  # Cor da cobra (Dracula Pink)
-          color_dots: "#44475A"   # Cor dos pontos de contribuição (Dracula Selection)
+          # === CORES FINAIS PARA O TEMA DRACULA ===
+          color_snake: "#FF79C6"      # Cor da cobra (Dracula Pink)
+          color_dots: "#BD93F9"       # Cor dos pontos de contribuição (Dracula Purple)
+          color_bg: "#282A36"         # Cor de fundo dos quadrados (Dracula Background)
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
