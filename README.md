@@ -1,7 +1,7 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Pedro+Marques;Engenheiro+de+Software;Apaixonado+por+tecnologia" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Pedro+Marques;Engenheiro+de+Software;Apaixonado+por+tecnologia" alt="Typing SVG" />
+  </p>
 </h1>
 
 <br/>
